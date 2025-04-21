@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishitha Nimma</h1>
-<h3 align="center">Senior Software Engineer | 3+ Years | Java Full Stack, Big Data, DevOps, Machine Learning, Deep Learning, Generative AI | AZURE Certified Data Scientist, AWS Certified Data Engineer, Alteryx Certified Designer Core, Professional Scrum Master I Certified</h3>
+<h3 align="center">Software Engineer | 2+ Years | Java Full Stack, DevOps, Machine Learning, Deep Learning, Artificial Intelligence | AWS Certified Solutions Architect Associate,  AZURE Certified Data Scientist Associate, Microsoft Certified: Power BI Data Analyst Associate, Professional Scrum Master I, Alteryx Certified Designer Core  Certified</h3>
 
 - 🔭 I’m currently working on [Building HIVE Data Warehouse for E-Commerce](https://github.com/rishitha532/Building-HIVE-Data-Warehouse-for-E-Commerce)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Tokyo Olympic Azure Integration](https://github.com/rishitha532/Tokyo-Olympic-Azure-Integration-)
 
-- 💬 Ask me about **Java Full Stack, Big Data, DevOps, Machine Learning, Deep Learning, Generative AI**
+- 💬 Ask me about **Java Full Stack, DevOps, Machine Learning, Deep Learning, Artificial Intelligence**
 
 - 📫 How to reach me **rishitha532@gmail.com**
 
