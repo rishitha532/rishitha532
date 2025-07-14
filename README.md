@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishitha Nimma</h1>
-<h3 align="center">Software Engineer | 2+ Years | Java Full Stack, DevOps, Machine Learning, Deep Learning, Artificial Intelligence | AWS Certified Solutions Architect Associate,  AZURE Certified Data Scientist Associate, Microsoft Certified: Power BI Data Analyst Associate, Professional Scrum Master I, Alteryx Certified Designer Core  Certified</h3>
+<h3 align="center">Software Engineer | 4+ Years | Java Full Stack, DevOps, Machine Learning, Deep Learning, Artificial Intelligence | AWS Certified Solutions Architect Associate,  AZURE Certified Data Scientist Associate, Microsoft Certified: Power BI Data Analyst Associate, Professional Scrum Master I, Alteryx Certified Designer Core  Certified</h3>
 
 - 🔭 I’m currently working on [Building HIVE Data Warehouse for E-Commerce](https://github.com/rishitha532/Building-HIVE-Data-Warehouse-for-E-Commerce)
 
